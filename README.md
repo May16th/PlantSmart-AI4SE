@@ -112,3 +112,6 @@ The test suite verifies several security aspects:
 - Implement rate limiting tests
 - Add performance testing
 - Enhance email template testing
+
+// Slide thuyết trình
+ https://www.canva.com/design/DAG2wc9ZfyA/_9XMh4J7wvSChcWvbJRmYQ/edit?utm_content=DAG2wc9ZfyA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
